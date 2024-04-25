@@ -8,10 +8,10 @@ export default function About() {
     >
       <p className="text-4xl font-bold">About HPO</p>
       <br />
-      <p className="text-2xl font-light">
+      <p className="text-xl md:w-8/12 text-center text-gray-500 my-4">
         Empowering Communities Through Health Promotion
       </p>
-      <p className="text-gray-500 text-xl w-full md:w-8/12 text-center my-4">
+      <p className="text-gray-500 text-base w-full md:w-8/12 text-center my-4">
         HPO (Health Promotion Organization) is a non-profit organization
         dedicated to empowering individuals and communities with the knowledge
         and resources they need to achieve optimal health. We believe that good
