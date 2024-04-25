@@ -10,7 +10,7 @@ Website for NGO Health Promotion Organization (HPO). Made with NextJS and Tailwi
 
 
 
-![image](https://user-images.githubusercontent.com/81325730/193545477-9d35b574-6a6e-4814-8084-df8eaac3c6c5.png)
+![image](https://github.com/SurajSomkuwar9/ngo-website/blob/bc1bfa27f62c05480fa9136f6bb9d29a50860d35/Screenshot%202024-04-25%20194412.png)
 
 
 
